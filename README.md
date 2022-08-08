@@ -1,4 +1,4 @@
-# Automating the install of Windows Server 2022 Secondary Active Directory with Powershell
+# Automating the install of Windows Server 2022 Secondary Active Directory Domain Controller with Powershell
 #### Date: 09/08/2022
 #### Version: 1
 #### Blog: www.sysadmintutorials.com
