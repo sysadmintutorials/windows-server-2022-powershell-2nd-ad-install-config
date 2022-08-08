@@ -1,0 +1,1 @@
+# windows-server-2022-powershell-2nd-ad-install-config
